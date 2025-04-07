@@ -1,4 +1,5 @@
 🍽️ Food Classification App (Deep Learning + Gradio)
+
 This project is a Deep Learning-based Food Classification App that identifies different food items from images using a Convolutional Neural Network (CNN). The model has been trained on a labeled dataset of various food categories and deployed using Gradio to provide an intuitive web-based interface.
 
 🔍 Features:
